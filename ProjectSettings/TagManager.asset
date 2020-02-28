@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lastWall
+  - firstWall
+  - Tubo1
+  - Ventilacion
+  - Tubo2
+  - Tubo3
+  - Done
+  - Tubo4
+  - Tubo5
+  - Tubo6
+  - Enemy
+  - inner
+  - Capturing
+  - outer
+  - limit
+  - Generator
+  - GeneratorOn
+  - Generator2
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Floor
+  - walls
+  - enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
